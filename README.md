@@ -1,5 +1,5 @@
 ### Windyo's Gitub Profile
-[![Windyo's github stats](https://github-readme-stats.vercel.app/api?username=Windyo)](https://github.com/anuraghazra/github-readme-stats)
+[![Windyo's github stats](https://github-readme-stats.vercel.app/api?username=Windyo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most of my contributions are done on SFXD
 
