@@ -2,9 +2,14 @@
 [![Windyo's github stats](https://github-readme-stats.vercel.app/api?username=Windyo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most of my contributions are done on SFXD
+
 https://join.sfxd.org
+
 https://bot.sfxd.org
+
 https://wiki.sfxd.org
+
+
 
 💬 Ask me about Salesforce. Or my shitty scripts.
 
